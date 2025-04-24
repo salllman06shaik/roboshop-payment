@@ -1,4 +1,4 @@
-name: Payment ci
+name: Payment CI
 on: [push, workflow_dispatch]
 jobs:
   common:
